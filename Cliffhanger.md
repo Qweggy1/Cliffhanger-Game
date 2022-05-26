@@ -8,4 +8,8 @@ everything we coded as a team. We planned, used trello, zoom daily and shared co
 This was the final result of all our work 
 as a team and it was a very fun and interesting 3 days to plan, create and make. 
 
+Cliffhanger is a Text based adventure game with mutiple endings and ASCII art, front end was not implemented 
+as this was not part of the course we was currently working on. This simply demonstrates my use of code writing 
+to create a brand new game from scratch. 
+
 
